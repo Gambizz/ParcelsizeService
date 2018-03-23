@@ -4,11 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/ParcelSizeServer.java" line="2" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="717c08e5-63c6-41db-91fa-5dbcf79a4df6" name="Default" comment="Newest Changes">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+    <list default="true" id="717c08e5-63c6-41db-91fa-5dbcf79a4df6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main.java" afterPath="$PROJECT_DIR$/src/main/java/ParcelSizeServer.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ParcelSizeServer.java" afterPath="$PROJECT_DIR$/src/main/java/ParcelSizeServer.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -643,12 +641,20 @@
       <option name="presentableId" value="Default" />
       <updated>1521814423482</updated>
       <workItem from="1521814429413" duration="1005000" />
-      <workItem from="1521815461908" duration="353000" />
+      <workItem from="1521815461908" duration="439000" />
     </task>
+    <task id="LOCAL-00001" summary="Newest Changes">
+      <created>1521815820810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521815820810</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1358000" />
+    <option name="totallyTimeSpent" value="1444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1989" y="30" width="1851" height="1050" extended-state="6" />
