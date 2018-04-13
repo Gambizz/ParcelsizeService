@@ -44,6 +44,7 @@ component('parcelSize', {
             category: ""},
             calculate: function () {
                 this.size.category = "M";
+
             }
         };
     }
